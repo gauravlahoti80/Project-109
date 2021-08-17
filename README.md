@@ -1,2 +1,2 @@
-# PROJECT-C109: PROPERTIES OF NORMAL DISTRIBUTION # www.google.com
+# PROJECT-C109: PROPERTIES OF NORMAL DISTRIBUTION
 Original Copyrights reserved to gauravlahoti80
